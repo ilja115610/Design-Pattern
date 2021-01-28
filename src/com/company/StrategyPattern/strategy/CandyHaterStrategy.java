@@ -1,6 +1,8 @@
 package com.company.StrategyPattern.strategy;
 
-import candy.Candy;
+
+
+import com.company.StrategyPattern.candy.Candy;
 
 import java.util.List;
 import java.util.Random;

@@ -1,7 +1,9 @@
 package com.company.StrategyPattern.child;
 
-import candy.Candy;
-import strategy.ChoosingCandyStrategy;
+
+
+import com.company.StrategyPattern.candy.Candy;
+import com.company.StrategyPattern.strategy.ChoosingCandyStrategy;
 
 import java.util.List;
 

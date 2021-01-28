@@ -1,10 +1,11 @@
 package com.company.StrategyPattern;
 
-import candy.Candy;
-import child.Child;
-import strategy.CandyHaterStrategy;
-import strategy.ChooseOnlySugarFreeStrategy;
-import strategy.MakeChoiceDependingOnAgeStrategy;
+
+import com.company.StrategyPattern.candy.Candy;
+import com.company.StrategyPattern.child.Child;
+import com.company.StrategyPattern.strategy.CandyHaterStrategy;
+import com.company.StrategyPattern.strategy.ChooseOnlySugarFreeStrategy;
+import com.company.StrategyPattern.strategy.MakeChoiceDependingOnAgeStrategy;
 
 import java.util.ArrayList;
 
