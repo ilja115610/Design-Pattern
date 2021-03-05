@@ -1,4 +1,4 @@
-package com.company.behavioral.StrategyPattern2;
+package com.company.behavioral.StrategyPattern2.strategies;
 
 public class MiuNoise implements NoiseBehavior {
 

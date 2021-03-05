@@ -1,4 +1,4 @@
-package com.company.designpatterns.structural.flyweight;
+package com.company.structural.Flyweight;
 
 import java.awt.*;
 import java.util.HashMap;

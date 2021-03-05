@@ -1,8 +1,5 @@
 package com.company.behavioral.StrategyPattern2;
 
-import com.company.behavioral.StrategyPattern2.Animal;
-import com.company.behavioral.StrategyPattern2.Cat;
-import com.company.behavioral.StrategyPattern2.Dog;
 
 public class Main {
 
