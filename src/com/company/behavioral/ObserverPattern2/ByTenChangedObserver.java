@@ -5,13 +5,9 @@ public class ByTenChangedObserver extends Observer{
 
     public ByTenChangedObserver(Subject observable) {
         super(observable);
-        subscribe();
+
     }
 
-    @Override
-    public void subscribe() {
-        this.observable.addObserver(this);
-    }
 
     @Override
     public void getUpdate(int currentValue, int newValue) {

@@ -6,9 +6,10 @@ public abstract class Observer {
 
     public Observer(Subject observable) {
         this.observable = observable;
+        observable.addObserver(this);
     }
 
-    public abstract void subscribe ();
+
 
     public abstract void getUpdate(int currentValue, int newValue);
 }
